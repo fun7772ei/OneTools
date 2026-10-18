@@ -87,7 +87,10 @@ if (!$PublishPrepared) {
     Invoke-Git @('-C', $stage, 'update-index', '--chmod=+x', 'gradlew')
     $indexedSource = Read-Audit $stage -Tracked
     if ($indexedSource.sourceSha256 -ne $currentSource.sourceSha256) { throw 'Staged source differs from reviewed source.' }
-    Invoke-Git @('-C', $stage, '-c', 'user.name=OneTools', '-c', 'user.email=fun7772ei@users.noreply.github.com', 'commit', '-m', "Publish OneTools $version source and verified release pipeline")
+    & git -C $stage diff --cached --quiet
+    if ($LASTEXITCODE -eq 1) {
+        Invoke-Git @('-C', $stage, '-c', 'user.name=OneTools', '-c', 'user.email=fun7772ei@users.noreply.github.com', 'commit', '-m', "Publish OneTools $version source and verified release pipeline")
+    } elseif ($LASTEXITCODE -ne 0) { throw 'Cannot inspect staged changes.' }
     $head = (git -C $stage rev-parse HEAD).Trim()
     $hash = Assert-Apk
     Copy-Item -LiteralPath $notesPath -Destination (Join-Path $assets 'RELEASE_NOTES.md')
@@ -122,13 +125,20 @@ try {
     $latestMetadataUrl = ($latest.assets | Where-Object name -eq 'update.json').browser_download_url
     if (!$latestMetadataUrl -or !( $latestMetadataUrl.StartsWith("https://github.com/$repository/releases/download/"))) { throw 'Cannot verify the previous release metadata.' }
     $previousMetadata = Invoke-RestMethod $latestMetadataUrl
+    if ($previousMetadata -is [string]) { $previousMetadata = $previousMetadata | ConvertFrom-Json }
+    if ($previousMetadata.schemaVersion -ne 1 -or $previousMetadata.applicationId -ne 'dev.onetools' -or "$($previousMetadata.versionCode)" -notmatch '^[1-9][0-9]*$') { throw 'Previous release metadata is invalid.' }
     if ($code -le $previousMetadata.versionCode) { throw 'Increase versionCode before publishing.' }
     Invoke-Git @('-c', 'credential.interactive=never', '-C', $stage, 'push', 'origin', 'HEAD:main')
     $deadline = [DateTime]::UtcNow.AddMinutes(25)
     $run = $null
     $lastState = ''
     do {
-        $runs = Invoke-RestMethod "$api/actions/workflows/verify.yml/runs?head_sha=$head&event=push&per_page=10" -Headers $headers
+        $runs = $null
+        try {
+            $runs = Invoke-RestMethod "$api/actions/workflows/verify.yml/runs?head_sha=$head&event=push&per_page=10" -Headers $headers
+        } catch {
+            if ([int]$_.Exception.Response.StatusCode -notin @(404, 502, 503, 504)) { throw }
+        }
         $run = $runs.workflow_runs | Where-Object head_sha -eq $head | Sort-Object id -Descending | Select-Object -First 1
         if ($run) {
             $state = "$($run.status):$($run.conclusion)"
