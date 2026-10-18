@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">OneTools</string>
+    <string name="unofficial_notice">OneToolsは非公式の端末管理ツールであり、Samsung Electronicsとは提携・関連していません。</string>
+</resources>

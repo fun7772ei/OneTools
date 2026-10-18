@@ -1,0 +1,2838 @@
+{
+  "schema_version": 1,
+  "verified_at_jst": "2026-10-18",
+  "scope": "日本国内正式販売のAndroid 11以上対応Galaxyスマートフォン。Android 11より新しいOSを初期搭載する機種を含む。",
+  "model_count": 142,
+  "safe_auto_model_count": 139,
+  "devices": {
+    "SC-03L": {
+      "device_name": "Galaxy S10",
+      "default_url": "https://doc.samsungmobile.com/SC-03L/008177190808/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-03L/008177190808/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-03L/DCM/doc.html",
+          "latest_build": "SC03LOMU1ASG1",
+          "latest_release_date": "2019-08-08",
+          "page_max_android": 9,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "NotifyはAndroid 9の初期履歴のみ",
+      "history_warning": "取得時のNotify本文はAndroid 9の初期履歴のみ。URLの型番対応は確認済み。"
+    },
+    "SC-04L": {
+      "device_name": "Galaxy S10+",
+      "default_url": "https://doc.samsungmobile.com/SC-04L/008176190808/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-04L/008176190808/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-04L/DCM/doc.html",
+          "latest_build": "SC04LOMU1ASG1",
+          "latest_release_date": "2019-08-08",
+          "page_max_android": 9,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "NotifyはAndroid 9の初期履歴のみ",
+      "history_warning": "取得時のNotify本文はAndroid 9の初期履歴のみ。URLの型番対応は確認済み。"
+    },
+    "SC-05L": {
+      "device_name": "Galaxy S10+ (Olympic Games Edition)",
+      "default_url": "https://doc.samsungmobile.com/SC-05L/009248190918/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-05L/009248190918/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-05L/DCM/doc.html",
+          "latest_build": "SC05LOMU1DWC1",
+          "latest_release_date": "2023-04-04",
+          "page_max_android": 12,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-01M": {
+      "device_name": "Galaxy Note10+ / Galaxy Note10+ (Star Wars Special Edition)",
+      "default_url": "https://doc.samsungmobile.com/SC-01M/010098191111/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-01M/010098191111/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-01M/DCM/doc.html",
+          "latest_build": "SC01MOMS1DWF2",
+          "latest_release_date": "2023-06-29",
+          "page_max_android": 12,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-02M": {
+      "device_name": "Galaxy A20",
+      "default_url": "https://doc.samsungmobile.com/SC-02M/010245191209/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-02M/010245191209/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-02M/DCM/doc.html",
+          "latest_build": "SC02MOMU1CVC1",
+          "latest_release_date": "2022-05-17",
+          "page_max_android": 11,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-51A": {
+      "device_name": "Galaxy S20 5G / Galaxy S20 5G(ahamo)",
+      "default_url": "https://doc.samsungmobile.com/SC-51A/011955200319/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-51A/011955200319/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-51A/DCM/doc.html",
+          "latest_build": "SC51AOMS1DWL1",
+          "latest_release_date": "2024-02-01",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-52A": {
+      "device_name": "Galaxy S20+ 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-52A/013358200806/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-52A/013358200806/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-52A/DCM/doc.html",
+          "latest_build": "SC52AOMS1DWL1",
+          "latest_release_date": "2024-02-01",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-41A": {
+      "device_name": "Galaxy A41",
+      "default_url": "https://doc.samsungmobile.com/SC-41A/013359200806/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-41A/013359200806/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-41A/DCM/doc.html",
+          "latest_build": "SC41AOMU1CVI1",
+          "latest_release_date": "2022-10-11",
+          "page_max_android": 12,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-42A": {
+      "device_name": "Galaxy A21",
+      "default_url": "https://doc.samsungmobile.com/SC-42A/016228201221/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-42A/016228201221/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-42A/DCM/doc.html",
+          "latest_build": "SC42AOMU1BVH1",
+          "latest_release_date": "2022-10-17",
+          "page_max_android": 11,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-53A": {
+      "device_name": "Galaxy Note20 Ultra 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-53A/016123201216/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-53A/016123201216/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-53A/DCM/doc.html",
+          "latest_build": "SC53AOMS1DXF3",
+          "latest_release_date": "2024-07-29",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-54A": {
+      "device_name": "Galaxy A51 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-54A/016124201216/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-54A/016124201216/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-54A/DCM/doc.html",
+          "latest_build": "SC54AOMS1DXA1",
+          "latest_release_date": "2024-02-26",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-51B": {
+      "device_name": "Galaxy S21 5G / Galaxy S21 5G (Olympic Games Edition)",
+      "default_url": "https://doc.samsungmobile.com/SC-51B/018953210602/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-51B/018953210602/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-51B/DCM/doc.html",
+          "latest_build": "SC51BOMU1EZB1",
+          "latest_release_date": "2026-03-18",
+          "page_max_android": 15,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-52B": {
+      "device_name": "Galaxy S21 Ultra 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-52B/018954210602/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-52B/018954210602/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-52B/DCM/doc.html",
+          "latest_build": "SC52BOMU1EZB1",
+          "latest_release_date": "2026-03-18",
+          "page_max_android": 15,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-53B": {
+      "device_name": "Galaxy A52 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-53B/019538210811/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-53B/019538210811/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-53B/DCM/doc.html",
+          "latest_build": "SC53BOMS1DYC1",
+          "latest_release_date": "2025-04-02",
+          "page_max_android": 14,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-54B": {
+      "device_name": "Galaxy Z Flip3 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-54B/021061211130/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-54B/021061211130/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-54B/DCM/doc.html",
+          "latest_build": "SC54BOMS1EZH2",
+          "latest_release_date": "2026-10-07",
+          "page_max_android": 15,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-55B": {
+      "device_name": "Galaxy Z Fold3 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-55B/021014211104/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-55B/021014211104/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-55B/DCM/doc.html",
+          "latest_build": "SC55BOMS1EZH2",
+          "latest_release_date": "2026-10-07",
+          "page_max_android": 15,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-56B": {
+      "device_name": "Galaxy A22 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-56B/021680220228/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-56B/021680220228/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-56B/DCM/doc.html",
+          "latest_build": "SC56BOMU1CXC1",
+          "latest_release_date": "2024-03-28",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-51C": {
+      "device_name": "Galaxy S22",
+      "default_url": "https://doc.samsungmobile.com/SC-51C/023264220627/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-51C/023264220627/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-51C/DCM/doc.html",
+          "latest_build": "SC51COMS1EZH1",
+          "latest_release_date": "2026-10-07",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-52C": {
+      "device_name": "Galaxy S22 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SC-52C/023265220627/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-52C/023265220627/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-52C/DCM/doc.html",
+          "latest_build": "SC52COMS1EZH1",
+          "latest_release_date": "2026-10-07",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-53C": {
+      "device_name": "Galaxy A53 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-53C/023304220711/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-53C/023304220711/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-53C/DCM/doc.html",
+          "latest_build": "SC53COMS1EZH3",
+          "latest_release_date": "2026-10-07",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-54C": {
+      "device_name": "Galaxy Z Flip4",
+      "default_url": "https://doc.samsungmobile.com/SC-54C/025068220928/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-54C/025068220928/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-54C/DCM/doc.html",
+          "latest_build": "SC54COMS1EZH2",
+          "latest_release_date": "2026-09-28",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-55C": {
+      "device_name": "Galaxy Z Fold4",
+      "default_url": "https://doc.samsungmobile.com/SC-55C/025069220928/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-55C/025069220928/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-55C/DCM/doc.html",
+          "latest_build": "SC55COMS1EZH2",
+          "latest_release_date": "2026-09-28",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-56C": {
+      "device_name": "Galaxy A23 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-56C/025536221213/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-56C/025536221213/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-56C/DCM/doc.html",
+          "latest_build": "SC56COMU1CXL4",
+          "latest_release_date": "2025-01-22",
+          "page_max_android": 14,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-51D": {
+      "device_name": "Galaxy S23",
+      "default_url": "https://doc.samsungmobile.com/SC-51D/026907230705/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-51D/026907230705/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-51D/DCM/doc.html",
+          "latest_build": "SC51DOMS1EZH1",
+          "latest_release_date": "2026-09-15",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-52D": {
+      "device_name": "Galaxy S23 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SC-52D/026906230705/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-52D/026906230705/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-52D/DCM/doc.html",
+          "latest_build": "SC52DOMS1EZH1",
+          "latest_release_date": "2026-09-15",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-53D": {
+      "device_name": "Galaxy A54 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-53D/026838230615/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-53D/026838230615/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-53D/DCM/doc.html",
+          "latest_build": "SC53DOMS1EZH5",
+          "latest_release_date": "2026-09-08",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-54D": {
+      "device_name": "Galaxy Z Flip5",
+      "default_url": "https://doc.samsungmobile.com/SC-54D/027794230919/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-54D/027794230919/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-54D/DCM/doc.html",
+          "latest_build": "SC54DOMS1EZH5",
+          "latest_release_date": "2026-09-15",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-55D": {
+      "device_name": "Galaxy Z Fold5",
+      "default_url": "https://doc.samsungmobile.com/SC-55D/027793230919/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-55D/027793230919/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-55D/DCM/doc.html",
+          "latest_build": "SC55DOMS1EZH5",
+          "latest_release_date": "2026-09-15",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-51E": {
+      "device_name": "Galaxy S24",
+      "default_url": "https://doc.samsungmobile.com/SC-51E/029867240417/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-51E/029867240417/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-51E/DCM/doc.html",
+          "latest_build": "SC51EOMS1DZH1",
+          "latest_release_date": "2026-09-14",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-52E": {
+      "device_name": "Galaxy S24 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SC-52E/029868240417/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-52E/029868240417/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-52E/DCM/doc.html",
+          "latest_build": "SC52EOMS1DZH1",
+          "latest_release_date": "2026-09-14",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-53E": {
+      "device_name": "Galaxy A55 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-53E/030082240627/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-53E/030082240627/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-53E/DCM/doc.html",
+          "latest_build": "SC53EOMS1DZH4",
+          "latest_release_date": "2026-09-08",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-54E": {
+      "device_name": "Galaxy Z Flip6",
+      "default_url": "https://doc.samsungmobile.com/SC-54E/030873241007/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-54E/030873241007/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-54E/DCM/doc.html",
+          "latest_build": "SC54EOMS1DZH5",
+          "latest_release_date": "2026-09-03",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [
+        "SM-F741D"
+      ],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-55E": {
+      "device_name": "Galaxy Z Fold6",
+      "default_url": "https://doc.samsungmobile.com/SC-55E/030874241007/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-55E/030874241007/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-55E/DCM/doc.html",
+          "latest_build": "SC55EOMS1DZH5",
+          "latest_release_date": "2026-09-03",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [
+        "SM-F956D"
+      ],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-51F": {
+      "device_name": "Galaxy S25",
+      "default_url": "https://doc.samsungmobile.com/SC-51F/032895250324/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-51F/032895250324/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-51F/DCM/doc.html",
+          "latest_build": "SC51FOMU1DZIF",
+          "latest_release_date": "2026-10-14",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-52F": {
+      "device_name": "Galaxy S25 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SC-52F/032896250324/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-52F/032896250324/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-52F/DCM/doc.html",
+          "latest_build": "SC52FOMU1DZIF",
+          "latest_release_date": "2026-10-14",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [
+        "SM-S938D"
+      ],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-53F": {
+      "device_name": "Galaxy A25 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-53F/032897250324/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-53F/032897250324/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-53F/DCM/doc.html",
+          "latest_build": "SC53FOMS1CZI2",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-54F": {
+      "device_name": "Galaxy A36 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-54F/035224250825/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-54F/035224250825/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-54F/DCM/doc.html",
+          "latest_build": "SC54FOMS1CZH2",
+          "latest_release_date": "2026-09-08",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [
+        "SM-A366D"
+      ],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-55F": {
+      "device_name": "Galaxy Z Flip7",
+      "default_url": "https://doc.samsungmobile.com/SC-55F/034485250801/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-55F/034485250801/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-55F/DCM/doc.html",
+          "latest_build": "SC55FOMU1CZIH",
+          "latest_release_date": "2026-10-14",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-56F": {
+      "device_name": "Galaxy Z Fold7",
+      "default_url": "https://doc.samsungmobile.com/SC-56F/034486250801/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-56F/034486250801/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-56F/DCM/doc.html",
+          "latest_build": "SC56FOMU1CZIH",
+          "latest_release_date": "2026-10-14",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-51G": {
+      "device_name": "Galaxy S26",
+      "default_url": "https://doc.samsungmobile.com/SC-51G/037581260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-51G/037581260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-51G/DCM/doc.html",
+          "latest_build": "SC51GOMU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-52G": {
+      "device_name": "Galaxy S26+",
+      "default_url": "https://doc.samsungmobile.com/SC-52G/037582260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-52G/037582260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-52G/DCM/doc.html",
+          "latest_build": "SC52GOMU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-53G": {
+      "device_name": "Galaxy S26 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SC-53G/037583260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-53G/037583260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-53G/DCM/doc.html",
+          "latest_build": "SC53GOMU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-54G": {
+      "device_name": "Galaxy A57 5G",
+      "default_url": "https://doc.samsungmobile.com/SC-54G/038246260511/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-54G/038246260511/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-54G/DCM/doc.html",
+          "latest_build": "SC54GOMS1AZH3",
+          "latest_release_date": "2026-09-14",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-55G": {
+      "device_name": "Galaxy Z Flip8",
+      "default_url": "https://doc.samsungmobile.com/SC-55G/039449260805/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-55G/039449260805/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-55G/DCM/doc.html",
+          "latest_build": "SC55GOMU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-57G": {
+      "device_name": "Galaxy Z Fold8",
+      "default_url": "https://doc.samsungmobile.com/SC-57G/039451260805/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-57G/039451260805/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-57G/DCM/doc.html",
+          "latest_build": "SC57GOMU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SC-56G": {
+      "device_name": "Galaxy Z Fold8 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SC-56G/039450260805/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "ドコモ",
+          "url": "https://doc.samsungmobile.com/SC-56G/039450260805/jpn.html",
+          "root": "https://doc.samsungmobile.com/SC-56G/DCM/doc.html",
+          "latest_build": "SC56GOMU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-docomo/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCV41": {
+      "device_name": "Galaxy S10",
+      "default_url": "https://doc.samsungmobile.com/SCV41/007095190610/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCV41/007095190610/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV41/KDI/doc.html",
+          "latest_build": "SCV41KDU1ASDB",
+          "latest_release_date": "2019-06-09",
+          "page_max_android": 9,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "NotifyはAndroid 9の初期履歴のみ",
+      "history_warning": "取得時のNotify本文はAndroid 9の初期履歴のみ。URLの型番対応は確認済み。"
+    },
+    "SCV42": {
+      "device_name": "Galaxy S10+",
+      "default_url": "https://doc.samsungmobile.com/SCV42/007096190610/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCV42/007096190610/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV42/KDI/doc.html",
+          "latest_build": "SCV42KDU1ASDB",
+          "latest_release_date": "2019-06-09",
+          "page_max_android": 9,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "NotifyはAndroid 9の初期履歴のみ",
+      "history_warning": "取得時のNotify本文はAndroid 9の初期履歴のみ。URLの型番対応は確認済み。"
+    },
+    "SCV44": {
+      "device_name": "Galaxy Fold",
+      "default_url": "https://doc.samsungmobile.com/SCV44/010231191205/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCV44/010231191205/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV44/KDI/doc.html",
+          "latest_build": "SCV44KDU1DVE4",
+          "latest_release_date": "2022-06-22",
+          "page_max_android": 12,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCV45": {
+      "device_name": "Galaxy Note10+",
+      "default_url": "https://doc.samsungmobile.com/SCV45/010105191112/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCV45/010105191112/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV45/KDI/doc.html",
+          "latest_build": "SCV45KDS1DWF2",
+          "latest_release_date": "2023-06-28",
+          "page_max_android": 12,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCV46": {
+      "device_name": "Galaxy A20",
+      "default_url": "https://doc.samsungmobile.com/SCV46/009862191025/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCV46/009862191025/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV46/KDI/doc.html",
+          "latest_build": "SCV46KDS1CVA1",
+          "latest_release_date": "2022-02-07",
+          "page_max_android": 11,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCV47": {
+      "device_name": "Galaxy Z Flip",
+      "default_url": "https://doc.samsungmobile.com/SCV47/012140200413/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCV47/012140200413/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV47/KDI/doc.html",
+          "latest_build": "SCV47KDU1DWI2",
+          "latest_release_date": "2023-10-04",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG01": {
+      "device_name": "Galaxy S20 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG01/012092200401/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG01/012092200401/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG01/KDI/doc.html",
+          "latest_build": "SCG01KDS1DXB1",
+          "latest_release_date": "2024-03-20",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG02": {
+      "device_name": "Galaxy S20+ 5G （BTS Edition 含む）",
+      "default_url": "https://doc.samsungmobile.com/SCG02/013183200728/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG02/013183200728/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG02/KDI/doc.html",
+          "latest_build": "SCG02KDS1DXB1",
+          "latest_release_date": "2024-03-20",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCV48": {
+      "device_name": "Galaxy A41",
+      "default_url": null,
+      "resolution": "sales_channel_required",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCV48/013098200714/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV48/KDI/doc.html",
+          "latest_build": "SCV48KDU1CVI1",
+          "latest_release_date": "2022-10-05",
+          "page_max_android": 12,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        },
+        {
+          "carrier": "UQ mobile",
+          "url": "https://doc.samsungmobile.com/SCV48/013092200714/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV48/UQM/doc.html",
+          "latest_build": "SCV48KDU1CVI1",
+          "latest_release_date": "2022-10-05",
+          "page_max_android": 12,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-uqmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "販売元選択が必要",
+      "user_selection_required": true,
+      "sales_channel_options": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCV48/013098200714/jpn.html",
+          "status": "confirmed"
+        },
+        {
+          "carrier": "UQ mobile",
+          "url": "https://doc.samsungmobile.com/SCV48/013092200714/jpn.html",
+          "status": "confirmed"
+        }
+      ]
+    },
+    "SCG03": {
+      "device_name": "Galaxy S20 Ultra 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG03/013184200728/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG03/013184200728/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG03/KDI/doc.html",
+          "latest_build": "SCG03KDS1DXB1",
+          "latest_release_date": "2024-03-20",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG06": {
+      "device_name": "Galaxy Note20 Ultra 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG06/015086201020/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG06/015086201020/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG06/KDI/doc.html",
+          "latest_build": "SCG06KDU1DXF2",
+          "latest_release_date": "2024-07-17",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG04": {
+      "device_name": "Galaxy Z Flip 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG04/016153201216/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG04/016153201216/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG04/KDI/doc.html",
+          "latest_build": "SCG04KDU1DXF4",
+          "latest_release_date": "2024-07-17",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG05": {
+      "device_name": "Galaxy Z Fold2 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG05/016152201216/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG05/016152201216/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG05/KDI/doc.html",
+          "latest_build": "SCG05KDU1DXF2",
+          "latest_release_date": "2024-07-17",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG07": {
+      "device_name": "Galaxy A51 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG07/015486201110/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG07/015486201110/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG07/KDI/doc.html",
+          "latest_build": "SCG07KDS1DXA1",
+          "latest_release_date": "2024-02-26",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG08": {
+      "device_name": "Galaxy A32 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG08/017841210303/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG08/017841210303/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG08/KDI/doc.html",
+          "latest_build": "SCG08KDU1CWF2",
+          "latest_release_date": "2023-07-26",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG09": {
+      "device_name": "Galaxy S21 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG09/019349210720/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG09/019349210720/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG09/KDI/doc.html",
+          "latest_build": "SCG09KDS1EYJ1",
+          "latest_release_date": "2025-11-12",
+          "page_max_android": 15,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG10": {
+      "device_name": "Galaxy S21+ 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG10/019350210720/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG10/019350210720/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG10/KDI/doc.html",
+          "latest_build": "SCG10KDS1EYJ1",
+          "latest_release_date": "2025-11-12",
+          "page_max_android": 15,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCV49": {
+      "device_name": "Galaxy A21 シンプル",
+      "default_url": null,
+      "resolution": "sales_channel_required",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCV49/019060210617/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV49/KDI/doc.html",
+          "latest_build": "SCV49KDU1BUK1",
+          "latest_release_date": "2021-11-23",
+          "page_max_android": 11,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        },
+        {
+          "carrier": "UQ mobile",
+          "url": "https://doc.samsungmobile.com/SCV49/019059210617/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV49/UQM/doc.html",
+          "latest_build": "SCV49KDU1BWA3",
+          "latest_release_date": "2023-02-13",
+          "page_max_android": 11,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-uqmobile/"
+        },
+        {
+          "carrier": "J:COM",
+          "url": "https://doc.samsungmobile.com/SCV49/019061210617/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCV49/JCO/doc.html",
+          "latest_build": "SCV49KDU1BWA3",
+          "latest_release_date": "2023-02-13",
+          "page_max_android": 11,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-jcom/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "販売元選択が必要 / au用Notifyは2021年で停止",
+      "user_selection_required": true,
+      "sales_channel_options": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCV49/019060210617/jpn.html",
+          "status": "confirmed"
+        },
+        {
+          "carrier": "UQ mobile",
+          "url": "https://doc.samsungmobile.com/SCV49/019059210617/jpn.html",
+          "status": "confirmed"
+        },
+        {
+          "carrier": "J:COM",
+          "url": "https://doc.samsungmobile.com/SCV49/019061210617/jpn.html",
+          "status": "confirmed"
+        }
+      ]
+    },
+    "SCG11": {
+      "device_name": "Galaxy Z Fold3 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG11/021016211104/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG11/021016211104/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG11/KDI/doc.html",
+          "latest_build": "SCG11KDS1EZB8",
+          "latest_release_date": "2026-03-29",
+          "page_max_android": 15,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG12": {
+      "device_name": "Galaxy Z Flip3 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG12/021054211124/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG12/021054211124/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG12/KDI/doc.html",
+          "latest_build": "SCG12KDS1EZB6",
+          "latest_release_date": "2026-03-23",
+          "page_max_android": 15,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG13": {
+      "device_name": "Galaxy S22",
+      "default_url": "https://doc.samsungmobile.com/SCG13/023238220615/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG13/023238220615/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG13/KDI/doc.html",
+          "latest_build": "SCG13KDS1EZH1",
+          "latest_release_date": "2026-09-27",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG14": {
+      "device_name": "Galaxy S22 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SCG14/023239220615/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG14/023239220615/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG14/KDI/doc.html",
+          "latest_build": "SCG14KDS1EZH1",
+          "latest_release_date": "2026-09-27",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG15": {
+      "device_name": "Galaxy A53 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG15/024149220824/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG15/024149220824/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG15/KDI/doc.html",
+          "latest_build": "SCG15KDS1EZH3",
+          "latest_release_date": "2026-09-27",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG16": {
+      "device_name": "Galaxy Z Fold4",
+      "default_url": "https://doc.samsungmobile.com/SCG16/025194221011/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG16/025194221011/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG16/KDI/doc.html",
+          "latest_build": "SCG16KDS1EZH2",
+          "latest_release_date": "2026-09-15",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG17": {
+      "device_name": "Galaxy Z Flip4",
+      "default_url": "https://doc.samsungmobile.com/SCG17/025193221011/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG17/025193221011/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG17/KDI/doc.html",
+          "latest_build": "SCG17KDS1EZH2",
+          "latest_release_date": "2026-09-15",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG18": {
+      "device_name": "Galaxy A23 5G",
+      "default_url": null,
+      "resolution": "sales_channel_required",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG18/025282221026/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG18/KDI/doc.html",
+          "latest_build": "SCG18KDU1CXL4",
+          "latest_release_date": "2025-01-21",
+          "page_max_android": 14,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        },
+        {
+          "carrier": "J:COM",
+          "url": "https://doc.samsungmobile.com/SCG18/025532221207/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG18/JCO/doc.html",
+          "latest_build": "SCG18KDU1CXL4",
+          "latest_release_date": "2025-01-22",
+          "page_max_android": 14,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-jcom/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "販売元選択が必要",
+      "user_selection_required": true,
+      "sales_channel_options": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG18/025282221026/jpn.html",
+          "status": "confirmed"
+        },
+        {
+          "carrier": "J:COM",
+          "url": "https://doc.samsungmobile.com/SCG18/025532221207/jpn.html",
+          "status": "confirmed"
+        },
+        {
+          "carrier": "UQ mobile",
+          "url": null,
+          "status": "url_unconfirmed"
+        }
+      ]
+    },
+    "SCG19": {
+      "device_name": "Galaxy S23",
+      "default_url": "https://doc.samsungmobile.com/SCG19/026834230614/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG19/026834230614/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG19/KDI/doc.html",
+          "latest_build": "SCG19KDS1EZH1",
+          "latest_release_date": "2026-09-09",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG20": {
+      "device_name": "Galaxy S23 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SCG20/026835230614/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG20/026835230614/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG20/KDI/doc.html",
+          "latest_build": "SCG20KDS1EZH1",
+          "latest_release_date": "2026-09-09",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG21": {
+      "device_name": "Galaxy A54 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG21/026833230614/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG21/026833230614/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG21/KDI/doc.html",
+          "latest_build": "SCG21KDS1EZH5",
+          "latest_release_date": "2026-09-14",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG22": {
+      "device_name": "Galaxy Z Fold5",
+      "default_url": "https://doc.samsungmobile.com/SCG22/027798230919/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG22/027798230919/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG22/KDI/doc.html",
+          "latest_build": "SCG22KDS1EZH5",
+          "latest_release_date": "2026-09-14",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG23": {
+      "device_name": "Galaxy Z Flip5",
+      "default_url": "https://doc.samsungmobile.com/SCG23/027799230919/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG23/027799230919/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG23/KDI/doc.html",
+          "latest_build": "SCG23KDS1EZH5",
+          "latest_release_date": "2026-09-14",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG24": {
+      "device_name": "Galaxy S23 FE",
+      "default_url": "https://doc.samsungmobile.com/SCG24/029706240326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG24/029706240326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG24/KDI/doc.html",
+          "latest_build": "SCG24KDS1DZH6",
+          "latest_release_date": "2026-09-14",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG25": {
+      "device_name": "Galaxy S24",
+      "default_url": "https://doc.samsungmobile.com/SCG25/029869240417/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG25/029869240417/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG25/KDI/doc.html",
+          "latest_build": "SCG25KDS1DZH1",
+          "latest_release_date": "2026-09-09",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG26": {
+      "device_name": "Galaxy S24 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SCG26/029870240417/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG26/029870240417/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG26/KDI/doc.html",
+          "latest_build": "SCG26KDS1DZH1",
+          "latest_release_date": "2026-09-09",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG27": {
+      "device_name": "Galaxy A55 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG27/030083240627/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG27/030083240627/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG27/KDI/doc.html",
+          "latest_build": "SCG27KDS1DZH4",
+          "latest_release_date": "2026-09-08",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG28": {
+      "device_name": "Galaxy Z Fold6",
+      "default_url": "https://doc.samsungmobile.com/SCG28/030706240911/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG28/030706240911/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG28/KDI/doc.html",
+          "latest_build": "SCG28KDS1DZH5",
+          "latest_release_date": "2026-09-02",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [
+        "SM-F956J"
+      ],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG29": {
+      "device_name": "Galaxy Z Flip6",
+      "default_url": "https://doc.samsungmobile.com/SCG29/030707240911/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG29/030707240911/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG29/KDI/doc.html",
+          "latest_build": "SCG29KDS1DZH5",
+          "latest_release_date": "2026-09-02",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [
+        "SM-F741J"
+      ],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG30": {
+      "device_name": "Galaxy S24 FE",
+      "default_url": "https://doc.samsungmobile.com/SCG30/032162250122/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG30/032162250122/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG30/KDI/doc.html",
+          "latest_build": "SCG30KDS1DZH9",
+          "latest_release_date": "2026-09-06",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG31": {
+      "device_name": "Galaxy S25",
+      "default_url": "https://doc.samsungmobile.com/SCG31/032977250402/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG31/032977250402/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG31/KDI/doc.html",
+          "latest_build": "SCG31KDU1DZIF",
+          "latest_release_date": "2026-10-15",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG32": {
+      "device_name": "Galaxy S25 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SCG32/032978250402/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG32/032978250402/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG32/KDI/doc.html",
+          "latest_build": "SCG32KDU1DZIF",
+          "latest_release_date": "2026-10-15",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [
+        "SM-S938J"
+      ],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG33": {
+      "device_name": "Galaxy A25 5G",
+      "default_url": "https://doc.samsungmobile.com/SCG33/032979250402/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG33/032979250402/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG33/KDI/doc.html",
+          "latest_build": "SCG33KDS1CZI2",
+          "latest_release_date": "2026-10-14",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [
+        "SM-A253J"
+      ],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG34": {
+      "device_name": "Galaxy Z Fold7",
+      "default_url": "https://doc.samsungmobile.com/SCG34/034541250801/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG34/034541250801/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG34/KDI/doc.html",
+          "latest_build": "SCG34KDU1CZIH",
+          "latest_release_date": "2026-10-15",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG35": {
+      "device_name": "Galaxy Z Flip7",
+      "default_url": "https://doc.samsungmobile.com/SCG35/034542250801/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG35/034542250801/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG35/KDI/doc.html",
+          "latest_build": "SCG35KDU1CZIH",
+          "latest_release_date": "2026-10-15",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG36": {
+      "device_name": "Galaxy S26",
+      "default_url": "https://doc.samsungmobile.com/SCG36/037584260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG36/037584260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG36/KDI/doc.html",
+          "latest_build": "SCG36KDU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG38": {
+      "device_name": "Galaxy S26+",
+      "default_url": "https://doc.samsungmobile.com/SCG38/037586260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG38/037586260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG38/KDI/doc.html",
+          "latest_build": "SCG38KDU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG37": {
+      "device_name": "Galaxy S26 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SCG37/037585260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG37/037585260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG37/KDI/doc.html",
+          "latest_build": "SCG37KDU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG40": {
+      "device_name": "Galaxy Z Flip8",
+      "default_url": "https://doc.samsungmobile.com/SCG40/039477260806/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG40/039477260806/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG40/KDI/doc.html",
+          "latest_build": "SCG40KDU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG41": {
+      "device_name": "Galaxy Z Fold8",
+      "default_url": "https://doc.samsungmobile.com/SCG41/039478260806/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG41/039478260806/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG41/KDI/doc.html",
+          "latest_build": "SCG41KDU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SCG39": {
+      "device_name": "Galaxy Z Fold8 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SCG39/039476260806/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "au",
+          "url": "https://doc.samsungmobile.com/SCG39/039476260806/jpn.html",
+          "root": "https://doc.samsungmobile.com/SCG39/KDI/doc.html",
+          "latest_build": "SCG39KDU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-galaxy-terminal-which-is-sold-in-au/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-M236Q": {
+      "device_name": "Galaxy M23 5G",
+      "default_url": "https://doc.samsungmobile.com/SM-M236Q/023259220623/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-M236Q/023259220623/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-M236Q/SJP/doc.html",
+          "latest_build": "M236QOPS7CZB2",
+          "latest_release_date": "2026-03-12",
+          "page_max_android": 14,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S918Q": {
+      "device_name": "Galaxy S23 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SM-S918Q/027458230823/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-S918Q/027458230823/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S918Q/SJP/doc.html",
+          "latest_build": "S918QOPS7EZH1",
+          "latest_release_date": "2026-09-17",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F731Q": {
+      "device_name": "Galaxy Z Flip5",
+      "default_url": "https://doc.samsungmobile.com/SM-F731Q/028800240205/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F731Q/028800240205/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F731Q/SJP/doc.html",
+          "latest_build": "F731QOPS1EZH5",
+          "latest_release_date": "2026-09-17",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F946Q": {
+      "device_name": "Galaxy Z Fold5",
+      "default_url": "https://doc.samsungmobile.com/SM-F946Q/028799240205/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F946Q/028799240205/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F946Q/SJP/doc.html",
+          "latest_build": "F946QOPS1EZH5",
+          "latest_release_date": "2026-09-17",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S921Q": {
+      "device_name": "Galaxy S24",
+      "default_url": "https://doc.samsungmobile.com/SM-S921Q/029871240417/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-S921Q/029871240417/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S921Q/SJP/doc.html",
+          "latest_build": "S921QOPS1DZH1",
+          "latest_release_date": "2026-09-17",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S928Q": {
+      "device_name": "Galaxy S24 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SM-S928Q/029872240417/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-S928Q/029872240417/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S928Q/SJP/doc.html",
+          "latest_build": "S928QOPS1DZH1",
+          "latest_release_date": "2026-09-17",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F741Q": {
+      "device_name": "Galaxy Z Flip6",
+      "default_url": "https://doc.samsungmobile.com/SM-F741Q/030717240911/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F741Q/030717240911/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F741Q/SJP/doc.html",
+          "latest_build": "F741QOPS1DZH5",
+          "latest_release_date": "2026-09-10",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F956Q": {
+      "device_name": "Galaxy Z Fold6",
+      "default_url": "https://doc.samsungmobile.com/SM-F956Q/030718240911/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F956Q/030718240911/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F956Q/SJP/doc.html",
+          "latest_build": "F956QOPS1DZH5",
+          "latest_release_date": "2026-09-10",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S721Q": {
+      "device_name": "Galaxy S24 FE",
+      "default_url": "https://doc.samsungmobile.com/SM-S721Q/032163250122/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-S721Q/032163250122/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S721Q/SJP/doc.html",
+          "latest_build": "S721QOPS1DZH9",
+          "latest_release_date": "2026-09-09",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S931Q": {
+      "device_name": "Galaxy S25",
+      "default_url": "https://doc.samsungmobile.com/SM-S931Q/032940250331/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-S931Q/032940250331/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S931Q/SJP/doc.html",
+          "latest_build": "S931QOPS1CZH6",
+          "latest_release_date": "2026-09-07",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S938Q": {
+      "device_name": "Galaxy S25 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SM-S938Q/032941250331/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-S938Q/032941250331/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S938Q/SJP/doc.html",
+          "latest_build": "S938QOPS1CZH6",
+          "latest_release_date": "2026-09-07",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-A253Q": {
+      "device_name": "Galaxy A25 5G",
+      "default_url": "https://doc.samsungmobile.com/SM-A253Q/032939250331/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-A253Q/032939250331/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-A253Q/SJP/doc.html",
+          "latest_build": "A253QOPS1CZG1",
+          "latest_release_date": "2026-08-06",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-A366Q": {
+      "device_name": "Galaxy A36 5G",
+      "default_url": "https://doc.samsungmobile.com/SM-A366Q/035296250901/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-A366Q/035296250901/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-A366Q/SJP/doc.html",
+          "latest_build": "A366QOPS1CZH2",
+          "latest_release_date": "2026-09-15",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F766Q": {
+      "device_name": "Galaxy Z Flip7",
+      "default_url": "https://doc.samsungmobile.com/SM-F766Q/034608250801/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F766Q/034608250801/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F766Q/SJP/doc.html",
+          "latest_build": "F766QOPS1BZH3",
+          "latest_release_date": "2026-09-10",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F966Q": {
+      "device_name": "Galaxy Z Fold7",
+      "default_url": "https://doc.samsungmobile.com/SM-F966Q/034609250801/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F966Q/034609250801/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F966Q/SJP/doc.html",
+          "latest_build": "F966QOPS1BZH4",
+          "latest_release_date": "2026-09-10",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S942Q": {
+      "device_name": "Galaxy S26",
+      "default_url": "https://doc.samsungmobile.com/SM-S942Q/037600260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-S942Q/037600260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S942Q/SJP/doc.html",
+          "latest_build": "S942QOPS1AZH9",
+          "latest_release_date": "2026-09-15",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S947Q": {
+      "device_name": "Galaxy S26+",
+      "default_url": "https://doc.samsungmobile.com/SM-S947Q/037603260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-S947Q/037603260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S947Q/SJP/doc.html",
+          "latest_build": "S947QOPS1AZH9",
+          "latest_release_date": "2026-09-15",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S948Q": {
+      "device_name": "Galaxy S26 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SM-S948Q/037606260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-S948Q/037606260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S948Q/SJP/doc.html",
+          "latest_build": "S948QOPS1AZHL",
+          "latest_release_date": "2026-09-15",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-A576Q": {
+      "device_name": "Galaxy A57 5G",
+      "default_url": "https://doc.samsungmobile.com/SM-A576Q/038313260518/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-A576Q/038313260518/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-A576Q/SJP/doc.html",
+          "latest_build": "A576QOPS1AZH3",
+          "latest_release_date": "2026-09-16",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F776Q": {
+      "device_name": "Galaxy Z Flip8",
+      "default_url": "https://doc.samsungmobile.com/SM-F776Q/039406260803/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F776Q/039406260803/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F776Q/SJP/doc.html",
+          "latest_build": "F776QOPU1AZI6",
+          "latest_release_date": "2026-10-07",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F971Q": {
+      "device_name": "Galaxy Z Fold8",
+      "default_url": "https://doc.samsungmobile.com/SM-F971Q/039408260803/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F971Q/039408260803/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F971Q/SJP/doc.html",
+          "latest_build": "F971QOPU1AZI6",
+          "latest_release_date": "2026-10-07",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F976Q": {
+      "device_name": "Galaxy Z Fold8 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SM-F976Q/039410260803/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F976Q/039410260803/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F976Q/SJP/doc.html",
+          "latest_build": "F976QOPU1AZI6",
+          "latest_release_date": "2026-10-07",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-G973C": {
+      "device_name": "Galaxy S10",
+      "default_url": "https://doc.samsungmobile.com/SM-G973C/012846200625/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-G973C/012846200625/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-G973C/RKT/doc.html",
+          "latest_build": "G973CONU1DWD2",
+          "latest_release_date": "2023-04-24",
+          "page_max_android": 12,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-N975C": {
+      "device_name": "Galaxy Note10+",
+      "default_url": "https://doc.samsungmobile.com/SM-N975C/012872200630/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-N975C/012872200630/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-N975C/RKT/doc.html",
+          "latest_build": "N975CONU1DWD1",
+          "latest_release_date": "2023-04-18",
+          "page_max_android": 12,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F721C": {
+      "device_name": "Galaxy Z Flip4",
+      "default_url": "https://doc.samsungmobile.com/SM-F721C/025236221017/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-F721C/025236221017/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F721C/RKT/doc.html",
+          "latest_build": "F721CONS1EZH2",
+          "latest_release_date": "2026-10-07",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-A233C": {
+      "device_name": "Galaxy A23 5G",
+      "default_url": "https://doc.samsungmobile.com/SM-A233C/025542221214/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-A233C/025542221214/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-A233C/RKT/doc.html",
+          "latest_build": "A233CONU1CXL4",
+          "latest_release_date": "2025-04-10",
+          "page_max_android": 14,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S911C": {
+      "device_name": "Galaxy S23",
+      "default_url": "https://doc.samsungmobile.com/SM-S911C/026905230703/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-S911C/026905230703/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S911C/RKT/doc.html",
+          "latest_build": "S911CONS1EZH1",
+          "latest_release_date": "2026-09-28",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S942C": {
+      "device_name": "Galaxy S26",
+      "default_url": "https://doc.samsungmobile.com/SM-S942C/037587260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-S942C/037587260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S942C/RKT/doc.html",
+          "latest_build": "S942CONU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S947C": {
+      "device_name": "Galaxy S26+",
+      "default_url": "https://doc.samsungmobile.com/SM-S947C/037588260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-S947C/037588260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S947C/RKT/doc.html",
+          "latest_build": "S947CONU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S948C": {
+      "device_name": "Galaxy S26 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SM-S948C/037589260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-S948C/037589260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S948C/RKT/doc.html",
+          "latest_build": "S948CONU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F776C": {
+      "device_name": "Galaxy Z Flip8",
+      "default_url": "https://doc.samsungmobile.com/SM-F776C/039402260803/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-F776C/039402260803/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F776C/RKT/doc.html",
+          "latest_build": "F776CONU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F971C": {
+      "device_name": "Galaxy Z Fold8",
+      "default_url": "https://doc.samsungmobile.com/SM-F971C/039403260803/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-F971C/039403260803/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F971C/RKT/doc.html",
+          "latest_build": "F971CONU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F976C": {
+      "device_name": "Galaxy Z Fold8 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SM-F976C/039404260803/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "楽天モバイル",
+          "url": "https://doc.samsungmobile.com/SM-F976C/039404260803/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F976C/RKT/doc.html",
+          "latest_build": "F976CONU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/about-latest-version-information-of-rakutenmobile/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S931Z": {
+      "device_name": "Galaxy S25",
+      "default_url": "https://doc.samsungmobile.com/SM-S931Z/032899250324/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-S931Z/032899250324/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S931Z/SBM/doc.html",
+          "latest_build": "S931ZSCU1DZIF",
+          "latest_release_date": "2026-10-15",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S938Z": {
+      "device_name": "Galaxy S25 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SM-S938Z/032900250324/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-S938Z/032900250324/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S938Z/SBM/doc.html",
+          "latest_build": "S938ZSCU1DZIF",
+          "latest_release_date": "2026-10-15",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-A253Z": {
+      "device_name": "Galaxy A25 5G",
+      "default_url": "https://doc.samsungmobile.com/SM-A253Z/032898250324/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-A253Z/032898250324/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-A253Z/SBM/doc.html",
+          "latest_build": "A253ZSCS1CZI2",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F766Z": {
+      "device_name": "Galaxy Z Flip7",
+      "default_url": "https://doc.samsungmobile.com/SM-F766Z/034597250801/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-F766Z/034597250801/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F766Z/SBM/doc.html",
+          "latest_build": "F766ZSCU1CZIH",
+          "latest_release_date": "2026-10-15",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F966Z": {
+      "device_name": "Galaxy Z Fold7",
+      "default_url": "https://doc.samsungmobile.com/SM-F966Z/034598250801/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-F966Z/034598250801/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F966Z/SBM/doc.html",
+          "latest_build": "F966ZSCU1CZIH",
+          "latest_release_date": "2026-10-15",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S942Z": {
+      "device_name": "Galaxy S26",
+      "default_url": "https://doc.samsungmobile.com/SM-S942Z/037590260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-S942Z/037590260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S942Z/SBM/doc.html",
+          "latest_build": "S942ZSCU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S947Z": {
+      "device_name": "Galaxy S26+",
+      "default_url": "https://doc.samsungmobile.com/SM-S947Z/037591260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-S947Z/037591260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S947Z/SBM/doc.html",
+          "latest_build": "S947ZSCU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-S948Z": {
+      "device_name": "Galaxy S26 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SM-S948Z/037592260326/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-S948Z/037592260326/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-S948Z/SBM/doc.html",
+          "latest_build": "S948ZSCU1BZI9",
+          "latest_release_date": "2026-10-13",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-A576Z": {
+      "device_name": "Galaxy A57 5G",
+      "default_url": "https://doc.samsungmobile.com/SM-A576Z/038247260511/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-A576Z/038247260511/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-A576Z/SBM/doc.html",
+          "latest_build": "A576ZSCS1AZH3",
+          "latest_release_date": "2026-09-09",
+          "page_max_android": 16,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F776Z": {
+      "device_name": "Galaxy Z Flip8",
+      "default_url": "https://doc.samsungmobile.com/SM-F776Z/039517260807/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-F776Z/039517260807/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F776Z/SBM/doc.html",
+          "latest_build": "F776ZSCU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F971Z": {
+      "device_name": "Galaxy Z Fold8",
+      "default_url": "https://doc.samsungmobile.com/SM-F971Z/039518260807/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-F971Z/039518260807/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F971Z/SBM/doc.html",
+          "latest_build": "F971ZSCU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F976Z": {
+      "device_name": "Galaxy Z Fold8 Ultra",
+      "default_url": "https://doc.samsungmobile.com/SM-F976Z/039519260807/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SoftBank",
+          "url": "https://doc.samsungmobile.com/SM-F976Z/039519260807/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F976Z/SBM/doc.html",
+          "latest_build": "F976ZSCU1AZI6",
+          "latest_release_date": "2026-09-30",
+          "page_max_android": 17,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-the-galaxy-device-sold-in-softbank/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F700J": {
+      "device_name": "Galaxy Z Flip Thom Browne Edition",
+      "default_url": "https://doc.samsungmobile.com/SM-F700J/012325200430/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F700J/012325200430/jpn.html",
+          "root": "",
+          "latest_build": "F700JTBU1DWI2",
+          "latest_release_date": "2023-10-11",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    },
+    "SM-F916Q": {
+      "device_name": "Galaxy Z Fold2 5G Thom Browne Edition",
+      "default_url": "https://doc.samsungmobile.com/SM-F916Q/016249201223/jpn.html",
+      "resolution": "single_url",
+      "candidates": [
+        {
+          "carrier": "SIMフリー",
+          "url": "https://doc.samsungmobile.com/SM-F916Q/016249201223/jpn.html",
+          "root": "https://doc.samsungmobile.com/SM-F916Q/SJP/doc.html",
+          "latest_build": "F916QTBU1DXF2",
+          "latest_release_date": "2024-07-24",
+          "page_max_android": 13,
+          "inventory_source": "https://www.samsung.com/jp/support/mobile-devices/please-tell-us-about-the-latest-version-of-your-galaxy-devices/"
+        }
+      ],
+      "heading_model_aliases": [],
+      "android11_or_later_eligible": true,
+      "status": "型番・日本語履歴確認済み"
+    }
+  },
+  "samsung_heading_aliases": {
+    "SM-F741D": "SC-54E",
+    "SM-F956D": "SC-55E",
+    "SM-S938D": "SC-52F",
+    "SM-A366D": "SC-54F",
+    "SM-F956J": "SCG28",
+    "SM-F741J": "SCG29",
+    "SM-S938J": "SCG32",
+    "SM-A253J": "SCG33"
+  },
+  "alias_note": "Samsung公式Notify見出しに記載された別型番。実機のBuild.MODEL出力としては未検証。必要に応じcanonical modelへ正規化する。",
+  "auto_mapping_policy": "型番対応が確認でき一意に選べるURLは、履歴の新旧にかかわらず自動リンクに含める。古い履歴はhistory_warningに注記する。",
+  "sales_channel_selection_policy": {
+    "models": [
+      "SCV48",
+      "SCV49",
+      "SCG18"
+    ],
+    "selection_required": true,
+    "identify": "original_device_sales_channel_not_current_sim_operator",
+    "persist_per_model": true,
+    "allow_change_and_reset": true,
+    "cancel_or_unknown": "do_not_open_any_url",
+    "unconfirmed_sales_channel": "explain_unconfirmed_and_do_not_substitute_url",
+    "implementation_spec": "CODEX_IMPLEMENTATION_PROMPT.md"
+  }
+}
