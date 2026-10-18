@@ -24,7 +24,7 @@ Samsung Galaxy（Android 11以降）向けの、Kotlin / Jetpack Compose製Andro
 
 ## ビルド
 
-JDK 25、Android SDK（platforms;android-37 / build-tools;37.0.0）を用意し、SDKの場所を `ANDROID_HOME` または非公開の `local.properties` に設定してください。Gradle Wrapper 9.3.1 / AGP 9.1.1を使用します。minSdk 30 / targetSdk 36 / compileSdk 37です。
+JDK 25、Android SDK（platforms;android-37.0 / build-tools;37.0.0、Command-line Tools 23以降）を用意し、SDKの場所を `ANDROID_HOME` または非公開の `local.properties` に設定してください。Gradle Wrapper 9.3.1 / AGP 9.1.1を使用します。minSdk 30 / targetSdk 36 / compileSdk 37です。
 
 ```sh
 ./gradlew :app:assembleDebug :app:testDebugUnitTest :app:lintDebug :app:assembleDebugAndroidTest
