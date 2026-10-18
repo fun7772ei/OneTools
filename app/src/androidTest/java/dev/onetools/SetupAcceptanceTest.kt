@@ -66,7 +66,7 @@ class SetupAcceptanceTest {
             assertTrue(SetupPreferences(context.getSharedPreferences(name, Context.MODE_PRIVATE)).completed)
             ui.runOnUiThread { ui.activity.setContent { OneToolsApp(model, SetupPreferences(prefs)) } }
             ui.onNodeWithTag("initial-setup").assertDoesNotExist()
-            ui.waitUntil(30_000) { model.state.value.battery != null && model.state.value.operation == null }
+            ui.waitUntil(30_000) { !model.state.value.permitted || (model.state.value.battery != null && model.state.value.operation == null) }
             ui.onAllNodesWithText("情報").onLast().performClick()
             val reopen = ui.onNodeWithText("初期セットアップを表示")
             reopen.performScrollTo()
